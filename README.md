@@ -29,6 +29,6 @@
 > <img src="https://user-images.githubusercontent.com/48807137/235379450-240b387a-f405-42e9-8062-93f3e08faf60.png" width="25"/> __Presentation, Demo, and Code Walkthrough:__ https://youtu.be/uUZ5jG-eX90
 
 ***
-><img src="https://github.com/Ryanjwoodward/Codebreaker_Mimic/assets/48807137/af887401-e127-4b29-8f67-38c411332e7e" width="75"/>
+<img src="https://github.com/Ryanjwoodward/Codebreaker_Mimic/assets/48807137/af887401-e127-4b29-8f67-38c411332e7e" width="100"/>
 
 
