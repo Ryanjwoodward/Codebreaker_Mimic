@@ -4,9 +4,9 @@
 > An embedded systems project for Embedded Systems 1 class at Grand Canyon University for Software Engineering Program. The Application mimics the classic game Mastermind or Codebreaker using the DE10-Standard board, C Language, Linaro Linux, and HDL languages (Verilog and VHDL).
 
 #### Technologies
-><img src="https://github.com/Ryanjwoodward/Codebreaker_Mimic/assets/48807137/2e943e5b-c3bf-4611-8e83-4eb4a3edc24e" width="70"/>
+><img src="https://github.com/Ryanjwoodward/Codebreaker_Mimic/assets/48807137/2e943e5b-c3bf-4611-8e83-4eb4a3edc24e" width="80"/>
 ><img src="https://github.com/Ryanjwoodward/Codebreaker_Mimic/assets/48807137/e60b916c-c270-4eb9-acd3-2a195d528f79" width="50"/>
-><img src="https://github.com/Ryanjwoodward/Codebreaker_Mimic/assets/48807137/015fe3e8-d5b1-4d84-b944-7dca7ed09a1c" width="50"/>
+><img src="https://github.com/Ryanjwoodward/Codebreaker_Mimic/assets/48807137/015fe3e8-d5b1-4d84-b944-7dca7ed09a1c" width="80"/>
 >
         - C Programming Language
         - CLion
