@@ -7,7 +7,8 @@
 ><img src="https://github.com/Ryanjwoodward/Codebreaker_Mimic/assets/48807137/2e943e5b-c3bf-4611-8e83-4eb4a3edc24e" width="70"/>
 ><img src="https://github.com/Ryanjwoodward/Codebreaker_Mimic/assets/48807137/e60b916c-c270-4eb9-acd3-2a195d528f79" width="50"/>
 ><img src="https://github.com/Ryanjwoodward/Codebreaker_Mimic/assets/48807137/015fe3e8-d5b1-4d84-b944-7dca7ed09a1c" width="50"/>
->       - C Programming Language
+>
+        - C Programming Language
         - CLion
         - Arm Development Studio
         - VHDL
